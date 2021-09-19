@@ -14,11 +14,11 @@ class Car {
     int door;
 
     void drive() {
-        System.out.println("drive!!!");
+        System.out.println("drive!!!@@@@@");
     }
 
     void stop() {
-        System.out.println("stop!!!");
+        System.out.println("stop!!!@@@@@");
     }
 }
 
